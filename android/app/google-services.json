@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "886601392371",
+    "project_id": "employee-attendance-mana-7761f",
+    "storage_bucket": "employee-attendance-mana-7761f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886601392371:android:840960b8cf70eb469bd786",
+        "android_client_info": {
+          "package_name": "com.example.employee_attendance_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBvxyOb14E8FrcU7cARuzO-wXFLNl3BmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
