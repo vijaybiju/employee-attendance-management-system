@@ -32,7 +32,7 @@ To run the Employee Attendance Management application locally, follow these step
 Ensure you have Flutter installed on your development machine. If not, refer to the Flutter installation guide.
 
 Clone this repository to your local machine using Git:
-git clone https://github.com/vijaybiju/employee-attendance-management-sysytem.git
+https://github.com/vijaybiju/employee-attendance-management-system
 
 Navigate to the project directory:
 cd employee-attendance-management-system
